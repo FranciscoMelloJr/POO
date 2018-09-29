@@ -1,0 +1,12 @@
+Uma famácia, faz vendas no crediário para seus clientes. Para cada cliente são armazenados o nome e o saldo devedor.
+
+Para todos os produtos são armazenados o nome, estoque e o valor. 
+A venda consiste em baixar o estoque do produto (de acordo com a quantidade adquirida) e, consequentemente, somar o valor comprado da dívida do cliente.
+
+Crie a classe Produto, cliente e Venda.
+Uma venda deve ter uma lista de produtos, que será mantida por associação do tipo agregação.
+O método de vendas deve receber o cliente por dependência.
+
+Faça um programa que permita cadastrar os produtos, clientes e realizar vendas.
+
+Ao final mostre o estoque de cada produto e o saldo devedor de cada cliente.

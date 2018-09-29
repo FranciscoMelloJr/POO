@@ -1,0 +1,13 @@
+Criar uma classe chamada Pessoa que tenha os atributos nome e sexo e os métodos de cadastro, gets e sets e toString.
+
+Criar uma classe chamada Aluno, estendendo a classe Pessoa e que contenha além dos atributos de pessoa, também o número de matrícula e o nome do curso. Sobrescrever os métodos de cadastro e toString.
+
+Criar uma classe chamada Medico, estendendo a classe Pessoa e que contenha além dos atributos de pessoa, também o CRM. Sobrescrever os métodos de cadastro e toString.
+
+Criar uma classe chamada Pedritra, estendendo a classe Medico e que contenha além dos atributos de médico, também a idade máxima que o pediatra faz atendimento. Sobrescrever os métodos de cadastro e toString.
+
+Criar um programa principal (Main) que possibilite:
+1 - Cadastrar Alunos
+2 - Cadastrar Pediatras
+3 - Listar todos alunos (dados completos)
+4 - Listar todos os pediatras (dados completos)

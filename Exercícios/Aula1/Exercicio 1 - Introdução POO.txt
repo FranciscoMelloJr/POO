@@ -1,0 +1,4 @@
+Um carro possui ano, placa e modelo.
+Faça um programa em que o usuário possa cadastrar N carros.
+Após o cadastro informe a placa do carro e se o mesmo é novo ou velho.
+Observação: Um carro para ser considerado novo, deve ser do ano 2016 ou superior.

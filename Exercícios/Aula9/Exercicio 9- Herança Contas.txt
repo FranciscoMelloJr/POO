@@ -1,0 +1,25 @@
+Um banco deseja informatizar seu sistema bancário, controlando as agencias e contas de seus clientes.
+
+Uma agencia possui número, cidade e bairro.
+Um cliente possui nome, sexo e idade.
+Todas as contas possuem agencia, cliente e saldo. Cada conta pode realizar saque, depósito ou transferência.
+
+As contas simples podem fazer saque somente se houver saldo suficiente na conta.
+
+Para as contas especiais, é cadastrado um limite de crédito. Mesmo que o saldo não seja positivo, o cliente poderá fazer saques até que atinja o limite cadastrado.
+
+Existe uma conta universitária, em que o saldo total não pode ultrapassar 3000,00, portanto, o depósito não deve ser autorizado caso o saldo final ultrapasse esse valor. O saque desta conta só pode ser feito também se houver saldo.
+
+As transferências só podem ser feitas entre contas da mesma agência
+
+Faça um programa que permita:
+1 - cadastrar agencias
+2 - cadastrar clientes
+3 - cadastrar contas (de todos os tipos)
+4 - Realizar saque (de todos os tipos de conta)
+5 - realizar depósito (de todos os tipos de conta)
+6 - realizar tranferência (de todos os tipos de conta)
+7 - Listar o nome dos clientes e o saldo
+
+Observação: 
+- só é possível realizar saque caso haja saldo suficiente. 

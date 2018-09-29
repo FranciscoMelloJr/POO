@@ -1,0 +1,16 @@
+Um banco deseja informatizar seu sistema bancário, controlando as agencias e contas de seus clientes.
+
+Uma agencia possui número, cidade e bairro.
+Um cliente possui nome, sexo e idade.
+Uma conta possui agencia, cliente e saldo. Cada conta pode realizar saque ou depósito.
+
+Faça um programa que permita:
+1 - cadastrar agencias
+2 - cadastrar clientes
+3 - cadastrar contas
+4 - Realizar saque
+5 - realizar depósito
+6 - Listar o nome dos clientes e o saldo
+
+Observação: 
+- só é possível realizar saque caso haja saldo suficiente. 

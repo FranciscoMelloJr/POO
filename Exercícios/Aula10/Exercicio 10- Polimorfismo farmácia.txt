@@ -1,0 +1,19 @@
+﻿Uma farmácia comercializa diversos tipos de produtos. Medicamentos, perfumaria e acessórios cirúrgicos.
+Para todos os produtos são mantidos o nome, o valor e a quantidade em estoque.
+
+Além dos construtores e métodos de cadastro e apresentação, os produtos podem ser vendidos,
+desde que tenha em estoque. A venda consiste em baixar o estoque do produto e aumentar a dívida do cliente.
+Para os medicamentos, existe uma informação se o mesmo pode ou não ser comercializado sem receita médica.
+Para os que possuem essa restrição, somente pacientes que apresentam a receita poderão comprar.
+Para a perfumaria, existe um limite de venda por cliente,
+de forma que o mesmo pode adquirir somente se sua dívida junto à farmácia for inferior à 1000,00.
+Não existe restrição para os acessórios cirúrgicos.
+
+Para cada clientes são mantidos o nome,
+o valor da dívida e quais medicamentos o mesmo possui receita (pode não ter nenhum).
+
+Faça um programa, utilizando herança e polimorfismo,
+que cadastre os produtos e clientes da farmácia e faça as vendas, controlando as dívidas e estoques.
+
+Além do cadastro e venda,
+o sistema deve listar todos os clientes e suas respectivas dívidas e produtos e seus respectivos estoques.

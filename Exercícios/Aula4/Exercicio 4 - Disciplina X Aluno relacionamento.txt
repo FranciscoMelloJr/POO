@@ -1,0 +1,9 @@
+Uma disciplina possui um nome, o nome do professor e uma lista de alunos.
+Cada aluno possui nome e as notas de tres avaliações.
+
+Faça um programa que defina as classes Disciplina e Aluno e possibilite:
+
+1 - Cadastrar disciplinas
+2 - Mostrar os alunos de uma disciplina com a informação se está aprovado, reprovado ou em recuperação (média 7 para aprovação e média 2 para reprovação).
+3 - Verificar qual disciplina obteve o maior número de aprovações
+4 - verificar o nome do professor que teve mais reprovações em sua disciplina

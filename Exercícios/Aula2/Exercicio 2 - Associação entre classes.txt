@@ -1,0 +1,10 @@
+Um Medicamento possui os seguintes atributos:
+Nome, apresentação e valor
+
+Um Paciente possui nome, sexo e utiliza um Medicamento. Também tem cadastrado qual o médico que o atende.
+
+Um Médico tem Nome e especialidade.
+
+Faça um programa que modele as classes Médico, Paciente e Medicamento. Cada classe com os métodos de cadastro.
+
+No programa principal, possibilite o usuário cadastrar N pacientes (cada qual com seu médico e medicamento). Mostrar ao final o nome do paciente, a especialidade do médico, o nome e o valor do medicamento.
